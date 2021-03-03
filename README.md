@@ -1,4 +1,5 @@
 # Project-Euler-First-100
+
 Explanation of and solutions (in Python) for some of the first 100 Project Euler problems.  The hope is to make it through all 100 eventually!
 
 Complete information on the wonderful and always-growing Project Euler can be found at https://projecteuler.net/about.
@@ -10,7 +11,7 @@ Project Euler generally discourages sharing solutions - the point is to experien
  
 So, for each problem documented here, I am not just to share the code I used for the solution, but to explain _why_ I used the code that I did.
 
-# About me
+## A bit about me
 
-I am an amateur mathematician - a math enthusiast, if you will - and have experience programming in Python.  Project Euler was 
+I am an amateur mathematician - a math enthusiast, if you will - and have experience programming in Python.  Project Euler was my gateway into coding, in a way; someone told me about it in 2016 and I've been hooked on coding ever since.  
 
