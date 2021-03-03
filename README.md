@@ -13,5 +13,5 @@ So, for each problem documented here, I am not just to share the code I used for
 
 ## A bit about me
 
-I am an amateur mathematician - a math enthusiast, if you will - and have experience programming in Python.  Project Euler was my gateway into coding, in a way; someone told me about it in 2016 and I've been hooked on coding ever since.  
+I am an amateur mathematics enthusiast and have experience programming in Python.  Project Euler was my gateway into coding, in a way; someone told me about it in 2016 and I've been hooked on coding ever since.  
 
