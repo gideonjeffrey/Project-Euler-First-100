@@ -9,7 +9,7 @@ Project Euler generally discourages sharing solutions - the point is to experien
 >...the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems.
 >
  
-So, for each problem documented here, I am not just to share the code I used for the solution, but to explain _why_ I used the code that I did.
+So, for each problem documented here, I aim not just to share the code I used for the solution, but to explain _why_ I used the code that I did.
 
 ## A bit about me
 
